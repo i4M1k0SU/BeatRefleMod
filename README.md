@@ -13,6 +13,9 @@ beat refleのMod
 
 mono対応のDLL InjectorでInjectする
 
+- Class name: `Loader`
+- Method name: `Main` or `Init` or `Load`
+
 ### 例
 - GH Mono Injector
 - MInjector
