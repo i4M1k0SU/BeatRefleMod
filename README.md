@@ -20,3 +20,9 @@ mono対応のDLL InjectorでInjectする
 - GH Mono Injector
 - MInjector
 - SharpMonoInjector
+
+## 注意
+
+本modの使用は自己責任でお願いします
+
+使用により生じたトラブル等を販売・開発元に問い合わせることはご遠慮ください
